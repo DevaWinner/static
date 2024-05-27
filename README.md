@@ -4,6 +4,20 @@ This is a file hosting repo
 
 # Example Usage
 
-https://cdn.jsdelivr.net/gh/jquery/jquery@3.6.4/src/core.min.js
+## use this link to access a page that allows you to convert any asset file to a working link
 
-https://cdn.jsdelivr.net/DevaWinner/static/liahona-foundation/img/logo-single.svg
+https://www.jsdelivr.com/github
+
+## Example
+
+### Image Link on Github
+
+https://github.com/DevaWinner/static/blob/main/liahona-foundation/img/logo-single.svg
+
+### Image Link on JsDelivr
+
+https://cdn.jsdelivr.net/gh/DevaWinner/static@main/liahona-foundation/img/logo-single.svg
+
+### Image Link on Raw
+
+https://raw.githubusercontent.com/DevaWinner/static/main/liahona-foundation/img/logo-single.svg
